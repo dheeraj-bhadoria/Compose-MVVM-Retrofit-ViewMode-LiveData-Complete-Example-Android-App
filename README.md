@@ -2,25 +2,25 @@
 Compose MVVM Retrofit ViewMode LiveData Complete Example Android App. How to implement MVVM with Retrofit in compose based android app.
 
 ## Complete diagram and Process 
-        +------------------+
-        |      View        |
-        +------------------+
+        
+               View        
+       
                 |
-        +------------------+
-        |   ViewModel     |
-        +------------------+
+   
+            ViewModel     
+  
                 |
-        +------------------+
-        |    Repository    |
-        +------------------+
+        
+             Repository    
+        
                 |
-        +------------------+
-        |    Retrofit      |
-        +------------------+
+        
+             Retrofit      
+        
                 |
-        +------------------+
-        |      API         |
-        +------------------+
+        
+               API         
+        
         
    
      
