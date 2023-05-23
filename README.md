@@ -1,7 +1,7 @@
 # Compose-MVVM-Retrofit-ViewMode-LiveData-Complete-Example-Android-App
 Compose MVVM Retrofit ViewMode LiveData Complete Example Android App. How to implement MVVM with Retrofit in compose based android app.
 
-# Complete diagram and Process 
+## Complete diagram and Process 
         +------------------+
         |      View        |
         +------------------+
@@ -22,7 +22,9 @@ Compose MVVM Retrofit ViewMode LiveData Complete Example Android App. How to imp
         |      API         |
         +------------------+
         
-        Explanation of the components:
+   
+     
+## Explanation of the components:
 
 View: The user interface (UI) layer responsible for displaying the credit card data. It interacts with the ViewModel to fetch the credit card data.
 
