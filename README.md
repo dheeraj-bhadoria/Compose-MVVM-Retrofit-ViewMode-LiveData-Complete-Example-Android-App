@@ -39,3 +39,8 @@ API: The backend API that provides the credit card data. It receives requests fr
 The flow of data starts from the View, which triggers a request for credit card data in the ViewModel. The ViewModel communicates with the Repository, which uses Retrofit to make an API call to fetch the data from the API. The API returns the credit card data as a response, which is then passed back to the Repository. The Repository provides the data to the ViewModel, which updates its state and exposes the credit card data to the View. Finally, the View displays the credit card data to the user.
 
 This architecture follows the MVVM pattern, where the ViewModel separates the business logic from the UI layer, and the Repository abstracts the data operations, allowing for easier testing and maintenance. Retrofit handles the network communication, providing a convenient way to fetch data from the API.
+
+# Output of Card:
+
+<img src="https://github.com/dheeraj-bhadoria/Compose-MVVM-Retrofit-ViewMode-LiveData-Complete-Example-Android-App/blob/main/composeMVVMCard.png">
+
